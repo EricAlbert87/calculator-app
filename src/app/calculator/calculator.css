@@ -88,12 +88,12 @@ button:active {
 .equals {
   grid-row: span 2;
   height: 126px;
-  background: #35a66f;
+  background: #ffad42;
   color: white;
 }
 
 .equals:hover {
-  background: #48bd82;
+  background: #ffbd63;
 }
 
 .zero {
